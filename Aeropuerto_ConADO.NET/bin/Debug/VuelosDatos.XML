@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Vuelos>
+    <codigo>1000</codigo>
+    <destino>Caribe</destino>
+  </Vuelos>
+  <Vuelos>
+    <codigo>1005</codigo>
+    <destino>Buenos Aires</destino>
+  </Vuelos>
+  <Vuelos>
+    <codigo>1010</codigo>
+    <destino>Mar del Plata</destino>
+  </Vuelos>
+  <Vuelos>
+    <codigo>1015</codigo>
+    <destino>Bariloche</destino>
+  </Vuelos>
+  <Vuelos>
+    <codigo>1020</codigo>
+    <destino>Mendoza</destino>
+  </Vuelos>
+</DocumentElement>

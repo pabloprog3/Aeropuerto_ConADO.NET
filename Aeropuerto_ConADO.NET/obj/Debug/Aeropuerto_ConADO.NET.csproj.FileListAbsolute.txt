@@ -1,0 +1,13 @@
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Aeropuerto_ConADO.NET\bin\Debug\Aeropuerto_ConADO.NET.exe.config
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Aeropuerto_ConADO.NET\obj\Debug\Aeropuerto_ConADO.NET.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Aeropuerto_ConADO.NET\obj\Debug\Aeropuerto_ConADO.NET.frmAvion.resources
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Aeropuerto_ConADO.NET\obj\Debug\Aeropuerto_ConADO.NET.frmPrincipal.resources
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Aeropuerto_ConADO.NET\obj\Debug\Aeropuerto_ConADO.NET.Properties.Resources.resources
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Aeropuerto_ConADO.NET\obj\Debug\Aeropuerto_ConADO.NET.csproj.GenerateResource.Cache
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Aeropuerto_ConADO.NET\bin\Debug\Aeropuerto_ConADO.NET.exe
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Aeropuerto_ConADO.NET\bin\Debug\Aeropuerto_ConADO.NET.pdb
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Aeropuerto_ConADO.NET\bin\Debug\Entidades.dll
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Aeropuerto_ConADO.NET\bin\Debug\Entidades.pdb
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Aeropuerto_ConADO.NET\obj\Debug\Aeropuerto_ConADO.NET.exe
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Aeropuerto_ConADO.NET\obj\Debug\Aeropuerto_ConADO.NET.pdb
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Aeropuerto_ConADO.NET\obj\Debug\Aeropuerto_ConADO.NET.frmMostrar.resources

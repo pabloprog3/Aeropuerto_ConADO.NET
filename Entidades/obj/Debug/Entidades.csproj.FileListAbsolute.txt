@@ -1,0 +1,4 @@
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Entidades\bin\Debug\Entidades.dll
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Entidades\bin\Debug\Entidades.pdb
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Entidades\obj\Debug\Entidades.dll
+C:\Users\pablo\Desktop\Aeropuerto_ConADO.NET\Entidades\obj\Debug\Entidades.pdb
